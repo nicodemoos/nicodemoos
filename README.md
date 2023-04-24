@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá, eu sou o Victor Nicodemos 👋
 
-<!--
-**nicodemoos/nicodemoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! 
 
-Here are some ideas to get you started:
+Sou um Analista de Suporte que gosta de explorar o mundo do front-end. Meus conhecimentos incluem HTML e CSS, e atualmente estou me dedicando ao estudo de JavaScript e React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O que você encontrará aqui:
+
+Neste perfil, você encontrará projetos que desenvolvi enquanto explorava novas tecnologias e aprimorava minhas habilidades de programação. Sinta-se livre para explorar e deixar suas opiniões e sugestões.
+
+Contato
+
+Você pode entrar em contato comigo pelo meu e-mail: victor.nicodemoos@gmail.com ou pelo meu LinkedIn: https://www.linkedin.com/in/victor-nicodemos-0444611a1/. Ficarei feliz em conversar e trocar experiências.
+
+
+Obrigado por visitar o meu perfil! 🤗
