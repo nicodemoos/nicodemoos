@@ -4,8 +4,6 @@ Bem-vindo ao meu perfil do GitHub!
 
 Sou um Analista de Suporte que gosta de explorar o mundo do front-end. Meus conhecimentos incluem HTML e CSS, e atualmente estou me dedicando ao estudo de JavaScript e React.
 
-O que você encontrará aqui:
-
 Neste perfil, você encontrará projetos que desenvolvi enquanto explorava novas tecnologias e aprimorava minhas habilidades de programação. Sinta-se livre para explorar e deixar suas opiniões e sugestões.
 
 Contato
